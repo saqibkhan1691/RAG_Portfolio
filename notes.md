@@ -16,12 +16,10 @@ Query(Prompt) --->  LLMS --->  Response
 
 # LLMS:
 
-LLMS are AI model trained on vast amounts of text data to understand, generate, and process human language. (It is also known as Parametrix knowledge becuase it store data in parameters in number vector form)
+LLMS are AI model trained on vast amounts of text data to understand, generate, and process human language. (It is also known as Parametrix knowledge becuase it store data in parameters in number vector form) and we access that data through prompting(Query) 
 
 
-# How to access that data from LLMs paramters:
-
-We access that data through prompting(Query) but there are three limitations in prompting through which we can't access data from paramters:
+# there are three limitations in prompting through which we can't access data from paramters:
 
 1) Private data - LLMs cant answer on my personal data
 
