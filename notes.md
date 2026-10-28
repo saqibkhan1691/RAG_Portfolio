@@ -163,7 +163,8 @@ It is a final step where a LLMs uses the user's query and the retrieved & augmen
 
 # RAG Complete Pipeline:
 
-![alt text](.\images\rag_pipeline.png)
+![RAG Pipeline](./images/rag_pipeline.png)
+
 
 # Conclusion:
 
