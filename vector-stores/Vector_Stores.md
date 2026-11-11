@@ -6,7 +6,7 @@ A Vector Store is a specialized database that saves data as numerical vectors to
 
 Text is passed through a Neural Network (Embedding Model), which captures its semantic context and converts it into a high-dimensional numerical array called a Vector Embedding. These vectors are then stored in the Vector Store for fast similarity search.
 
-![Embedding Vectors](.vector-stores/images/embedding_vectors.png)
+![Embedding Vectors](../vector-stores/images/embedding_vectors.png)
 
 
 
@@ -100,4 +100,4 @@ A vector database is effectively a vector store with extr database features (e.g
 
 # Chroma Vector Store:
 
-![Chroma Vector Store](.vector-stores/images/chroma_vector_store.png)
+![Chroma Vector Store](../vector-stores/images/chroma_vector_store.png)
