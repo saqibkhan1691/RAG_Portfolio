@@ -41,7 +41,7 @@ Working with smaller chunks of text can be more memory-efficient and allow for b
 
 In length based we split the text based on size for example size=100 it means after 100 character chunk 2 will start then next 100 characters chunk 3 will start and so on
 
-![Length Based](../text_splitters/image/length_based_text_splitting.png)
+![Length Based](../image/length_based_text_splitting.png)
 
 
 ## (2) Text Structured Based:
@@ -58,7 +58,7 @@ In this we split the text by paragraph, sentence, word, character and it try spl
 
 example -> 
 
-![Text Structured Base](../text_splitters/image/text_structured_base.png)
+![Text Structured Base](../image/text_structured_base.png)
 
 
 
