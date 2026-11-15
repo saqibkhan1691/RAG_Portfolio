@@ -1,17 +1,23 @@
 # RAG (Retrieval Augmented Generation) pipeline core components that are used to connect data with LLMs:
 
 - Document Loader
-
 - Text Splitter
-
 - Vector Store
-
 - Retrievers
 
 
 # What is RAG?
 
-Query(Prompt) --->  LLMS --->  Response
+It is a technique that combines information retrieval with language generation, where a model retrieves relevant documents from knowledge base and then uses them as context to generate accurate and grounded responses.
+
+{Query/Prompt + Context}  --->  LLMS --->  Response
+
+
+# Benefits of using RAG:
+
+- 1. Use of up-to-date information
+- 2. Better privacy
+- 3. No limit of document size
 
 
 # LLMS:
