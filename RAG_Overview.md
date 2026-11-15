@@ -1,3 +1,11 @@
+# LangChain Components:
+
+- Models
+- Prompts
+- Chains
+- Runnables
+
+
 # RAG (Retrieval Augmented Generation) pipeline core components that are used to connect data with LLMs:
 
 - Document Loader
