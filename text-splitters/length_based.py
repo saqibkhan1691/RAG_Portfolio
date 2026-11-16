@@ -4,7 +4,7 @@ from langchain_text_splitters import CharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 
 # Load the PDF file using PyPDFLoader
-loader = PyPDFLoader('./documents/sample_text_splitting.pdf')
+loader = PyPDFLoader('./documents/sample.pdf')
 
 ## it returns list of Document objects, each Document object contains the text of a page in the PDF file
 docs = loader.load()
